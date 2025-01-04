@@ -115,3 +115,8 @@ Deliverable
           Proper deployment and hosting for public access.
 
 This application can be further extended to include advanced features such as multimedia sharing, group chats, and integration with third-party APIs.
+
+
+**OUTPUT OF THE TASK**
+
+![op](https://github.com/user-attachments/assets/a734c594-47d2-4e66-8c29-953ebca5fe71)
